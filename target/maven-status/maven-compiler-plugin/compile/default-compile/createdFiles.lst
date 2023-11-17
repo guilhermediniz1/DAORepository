@@ -1,1 +1,4 @@
-com\mycompany\daorepository\application\Main.class
+com\guilherme\daorepository\application\Main.class
+com\guilherme\daorepository\dao\ClienteDAOSQLite.class
+com\guilherme\daorepository\entity\Cliente.class
+com\guilherme\daorepository\dao\ClienteDAO.class
